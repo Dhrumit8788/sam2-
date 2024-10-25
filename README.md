@@ -1,5 +1,5 @@
 **Import and Global Variables**
-**os: ** The **os** module is used to interact with the operating system, like checking file existence.
+**os**: The **os** module is used to interact with the operating system, like checking file existence.
 **FILENAME:** A global constant set to **"meals.txt"**, which stores the data for all meals.
 **Functions**
 
@@ -7,7 +7,7 @@
 
 **Purpose:** Load meal data from a specified file.
 **Process:**
-**-**Initialize an empty list **meals.**
+Initialize an empty list **meals.**
 Check if the specified file exists. If it does, open the file and read each line.
 Split each line into components **(foodItem, quantity, calories, date)**, create a dictionary for each meal, and append it to the **meals** list.
 **Return:** The list of meals loaded from the file.
