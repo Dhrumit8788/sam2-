@@ -34,13 +34,4 @@ Follow the on-screen prompts to interact with the application.
 
 #### Additional functions (`viewMeals`, `trackDailyIntake`, etc.) describe similarly.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
-## Authors
-- **Dhrumit Vekariya** - *Initial work* - [YourGitHubUsername](https://github.com/yourusername)
-
-## Acknowledgments
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc.
