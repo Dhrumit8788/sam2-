@@ -1,4 +1,4 @@
-Follow the on-screen prompts to interact with the application.
+Calorie and Diet Plan Tracker
 
 ## File Description
 - `calorie_tracker.py`: The main Python script that runs the Calorie and Diet Plan Tracker.
